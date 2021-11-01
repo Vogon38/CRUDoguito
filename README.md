@@ -3,7 +3,7 @@ instalar o json-server
 npm install -g json-server
 ```
 
-executar o json server:
+executar o json-server:
 ```js
 json-server --watch db.json
 ```
