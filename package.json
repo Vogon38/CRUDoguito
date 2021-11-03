@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.2"
+    "-": "^0.0.1",
+    "@types/mongodb": "^4.0.7",
+    "@vercel/node": "^1.12.1",
+    "D": "^1.0.0",
+    "axios": "^0.24.0",
+    "json-server": "^0.16.2",
+    "mongocli": "^0.0.1"
   }
 }
