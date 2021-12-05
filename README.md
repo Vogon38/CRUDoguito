@@ -15,5 +15,5 @@ npm install -g browser-sync
 
 executar o browser-sync:
 ```js
-browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+browser-sync start --server --file . --host --port 5000 --startPath ./telas/lista_cliente.html
 ```
